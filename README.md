@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Passawee Sombunwanich
-- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning js/ts
 
 <!---
